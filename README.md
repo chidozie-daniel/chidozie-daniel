@@ -1,5 +1,13 @@
 ## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" />
 
+I'm Daniel, an Information Technology student passionate about building web applications and continuously learning new technologies.
+
+- 🌱 Currently learning JavaScript, TypeScript, and the MERN stack
+- 💻 Interested in Full-Stack Development and Software Engineering
+- 🎓 Studying IT at RK University
+- 🚀 Building projects to strengthen my skills and portfolio
+- 🌍 Aspiring to pursue a Master's degree abroad
+
 
 
 <!--
